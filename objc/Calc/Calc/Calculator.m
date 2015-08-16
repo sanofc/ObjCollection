@@ -11,10 +11,10 @@
 
 @implementation Calculator
 
--(id)initWithNum:(int)_a b:(int)_b{
+-(id)initWithNum:(int)a b:(int)b{
 	if(self = [super init]){
-		self->a = _a;
-		self->b = _b;
+		self->a = a;
+		self->b = b;
 	}
 	return self;
 }

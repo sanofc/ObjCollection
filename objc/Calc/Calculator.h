@@ -9,7 +9,9 @@
 #ifndef Calc_objc_Calculator_h
 #define Calc_objc_Calculator_h
 
-@interface Calculator : NSObject {
+#import <Foundation/Foundation.h>
+
+@interface Calculator : NSObject{
 @private
 	int a,b;
 }

@@ -6,7 +6,6 @@
 //  Copyright (c) 2015 Hiroyuki Sano. All rights reserved.
 //
 
-#include <stdio.h>
 #include "calculator.h"
 
 calculator::calculator(int a, int b){
@@ -15,6 +14,6 @@ calculator::calculator(int a, int b){
 }
 
 int calculator::add(){
-	int c = this->a + this->b;
+	int c = a + b;
 	return c;
 }
