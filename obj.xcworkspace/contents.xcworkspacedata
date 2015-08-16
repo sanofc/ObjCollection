@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/sanohiroyuki/prog/obj/objc/Calc/Calc_objc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sanohiroyuki/prog/obj/java/Calc/Calc_java.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sanohiroyuki/prog/obj/cpp/Calc/Calc_cpp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sanohiroyuki/prog/obj/swift/Calc/Calc_swift.xcodeproj">
+   </FileRef>
+</Workspace>
